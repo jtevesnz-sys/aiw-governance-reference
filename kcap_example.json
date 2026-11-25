@@ -1,0 +1,8 @@
+{
+  "title": "Fictional website button check",
+  "objective": "Document a simulated booking button issue for a future reviewer.",
+  "evidence": "Synthetic fixture only: the button does not open the example dialog.",
+  "outcome": "The issue is recorded for investigation; no live website was changed.",
+  "limitations": "This is fictional, and no browser or real booking system was tested.",
+  "next_steps": "Reproduce with a real browser and compare the result with the stated requirement."
+}
